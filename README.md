@@ -1,4 +1,4 @@
-# sber-task
+# fastapi-bank-service
 
 
 ## Деплой в docker
